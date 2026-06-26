@@ -2,32 +2,32 @@ const juegos = [
     {
         nombre: "Minecraft",
         genero: "Survival",
-        imagen: "imagenes/minecraft.jpg"
+        imagen: "imagenes/Minecraft.jpg"
     },
     {
         nombre: "Grand Theft Auto V",
         genero: "Acción",
-        imagen: "imagenes/gta5.jpg"
+        imagen: "imagenes/GTA5.jpg"
     },
     {
         nombre: "Age of Empires II",
         genero: "Estrategia",
-        imagen: "imagenes/age2.jpg"
+        imagen: "imagenes/Age2.jpg"
     },
     {
         nombre: "DOOM Eternal",
         genero: "Acción",
-        imagen: "imagenes/doom.jpg"
+        imagen: "imagenes/Doom.jpg"
     },
     {
         nombre: "Forza Horizon 6",
         genero: "Carreras",
-        imagen: "imagenes/forza6.jpg"
+        imagen: "imagenes/Forza6.jpg"
     },
     {
         nombre: "ARK: Survival Evolved",
         genero: "Survival",
-        imagen: "imagenes/ark.jpg"
+        imagen: "imagenes/ARK.jpg"
     }
 ];
 
