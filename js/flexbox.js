@@ -28,7 +28,23 @@ const juegos = [
         nombre: "ARK: Survival Evolved",
         genero: "Survival",
         imagen: "imagenes/ark.jpg"
+    },
+    {
+        nombre: "7 Days to Die",
+        genero: "Survival",
+        imagen: "imagenes/7days.jpg"
+    },
+    {
+        nombre: "Counter Strike 2",
+        genero: "Acción",
+        imagen: "imagenes/cs2.jpg"
+    },
+    {
+        nombre: "Need For Speed Heat",
+        genero: "Carreras",
+        imagen: "imagenes/nfsheat.jpg"
     }
+    
 ];
 
 const contenedor = document.getElementById("contenedorJuegos");
